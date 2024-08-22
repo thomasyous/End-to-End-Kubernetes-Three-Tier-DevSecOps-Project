@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: cheatingkits.com
+    - host: amanpathakdevops.study
       http:
         paths:
           - path: /api
