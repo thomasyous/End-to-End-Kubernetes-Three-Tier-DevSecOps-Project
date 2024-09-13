@@ -12,7 +12,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: chatz.com
+    - host: gammaentp.com
       http:
         paths:
           - path: /api
