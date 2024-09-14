@@ -12,7 +12,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: legzok.com
+    - host: gammaentp.com
       http:
         paths:
           - path: /api
